@@ -74,7 +74,7 @@ projeto-dashboard-vendas/
 
 **Região não informada**
 
-![Análise dos registros sem região informada](imagens/regiao_nao_informada.png)
+![Análise dos registros sem região informada](imagens/regiao_nao_informado.png)
 
 ## Como visualizar
 
